@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    padding: 1em;
+}
+
+.bottom {
+    display: flex;
+}
+
+.left {
+    padding-left: .5em;
+    padding-right: .5em;
+}
+
+.right {
+    display: flex;
+    padding-left: 1em;
+}
+
+.employee-card {
+    border: 1px solid black;
+    font-size: .5em;
+}
